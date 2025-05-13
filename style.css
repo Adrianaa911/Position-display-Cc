@@ -22,7 +22,8 @@ nav li {
   font-weight: 600;
   font-size: 12px;
   display: inline-block;
-  width: 80px;
+  width: 90px;
+  margin-left: 60px;
 }
 
 main {
